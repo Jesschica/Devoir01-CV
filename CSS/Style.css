@@ -1,0 +1,22 @@
+body {font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    width: 1150px;
+    height: 780px;
+    margin: auto;}
+
+*{box-sizing: border-box;}
+
+header {background: #7e1d1d;
+    color: white;
+    text-align: center;}
+
+nav {background: rgb(35, 23, 35);
+    padding: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 60px;}
+
+.coordonnees_contact {display: flex;
+    justify-content: space-between;
+    text-align: left;}
+
