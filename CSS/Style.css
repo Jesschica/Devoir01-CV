@@ -55,3 +55,23 @@ h3 {background: rgb(210, 186, 154);
 .partie_droite h3 {
     background-color: rgb(210, 186, 154);
     border-left: 7px solid #7e1d1d;}
+
+footer {display: block;
+    background: #7e1d1d;
+    height: 125px;
+    color: white;
+    text-align: center;
+    padding-top: 20px;}
+    
+.icone {padding-bottom: 20px;
+    margin: 0 5px ;}
+    
+footer img {border-radius: 10px;}
+
+header img {border-radius: 100px;
+    box-shadow: 10px 10px #7e1d1d, -10px -10px #7e1d1d;}
+    
+    
+    
+    
+    
