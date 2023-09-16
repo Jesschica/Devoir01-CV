@@ -30,9 +30,28 @@ nav {background: rgb(35, 23, 35);
     padding-right: 50px;
     color: white;}
     
-    .partie_droite {display: block;
-        width: 800px;
-        padding-top: 5px;
-        border-right: solid black 2px;
-        padding-left: 30px;
-        padding-right: 20px;}
+.partie_droite {display: block;
+    width: 800px;
+    padding-top: 5px;
+    border-right: solid black 2px;
+    padding-left: 30px;
+    padding-right: 20px;}
+
+.texte_apropos {
+    text-align:justify;
+    text-indent: 30px;
+    padding-left: 15px;
+    padding-bottom: 20px;}
+    
+.langues_parlees {padding-bottom: 5px;}
+    
+h3 {background: rgb(210, 186, 154);
+    text-indent: 15px;
+    padding-right: 50px;
+    height: 30px;    
+    color: black;
+    padding: 5px;}
+
+.partie_droite h3 {
+    background-color: rgb(210, 186, 154);
+    border-left: 7px solid #7e1d1d;}
